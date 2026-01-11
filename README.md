@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shashank Kumar</h1>
+<h1 align="center">Hi 👋, I'm Shashank </h1>
 <h3 align="center">MS CS (AI & ML) | Data Analytics | AI Automation</h3>
 
 ---
