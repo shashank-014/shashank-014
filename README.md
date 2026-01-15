@@ -4,6 +4,10 @@ Data Analyst | Business Intelligence | SQL • Python • Power BI
 </h3>
 
 <p align="center">
+  <img src="assets/Generating_Animated_Progressive_Charts_Video.gif" width="800"/>
+</p>
+
+<p align="center">
 📊 Turning data into actionable business insights  
 🤖 Analytics + Automation | Manufacturing • Healthcare • Operations
 </p>
